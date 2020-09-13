@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+}
+#backgroundefundo {
+    height: 23%;
+    width: 99,5%;
+    padding-top: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+    text-align: center;
+    
+    background: url("imagens/wakanda.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-position: bottom;
+ 
+}
+#titulodebackground {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#subtitulobackground {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#botãodeação {
+    color:#62DBF2;
+    border: 1px #62DBF2 solid;
+    padding: 5px 5px 5px 5px;
+}
+#desigualdades {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#intro {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 99,5%;
+    height: 60%;
+
+}
+
+#textintro {
+    text-align: justify;
+
+}
+
+#subintro {
+    
+    width: 70%;
+    height: 10%;
+    padding-right: 40%;
+    
+
+}
+
+#vid {
+    
+    padding-left: 10%;
+}
+
+
+.flut{
+    float: left;
+    
+    width: 45%;
+}
+
+#desigualdades{
+    text-align: center;
+}
+
+#social{
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#economica{
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#genero{
+    text-align: justify;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#racial{
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+
+
+#topic{
+    text-align: justify;
+    padding-left: 5%;
+}
+
+.titles{
+    text-align: center;
+}
+
+.icones {
+    padding-left: 40%;
+    text-align: center;
+    width: 200px ;
+}
+.configuraçãodeblocos{
+    height: 50%;
+    width: 99,5%;
+    text-align: center;    
+    border: solid 5px black;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;   
+    background-size: 0%;
+}
